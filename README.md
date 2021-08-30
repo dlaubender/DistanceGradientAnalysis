@@ -1,7 +1,7 @@
 # DistanceGradientAnalysis
 ### This repository includes the essential code for ROI-dependent distance fluorescence gradient analysis for the publication Holtkamp et al. 2021
 
-These scripts do not act as a general toolbox, but are tailored to the publication's requirements and raw-data labeling logic.
+These scripts are not written as a general toolbox, but are tailored to the publication's requirements and raw-data labeling logic.
 
 /////////////////////////////////////////////////////
 
