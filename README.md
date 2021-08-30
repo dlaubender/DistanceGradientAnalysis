@@ -20,8 +20,8 @@ The first (channel 0 --> "C0") stained against lymphatic vessels and the second 
 Lymphatic vessels were used to draw ROI masks, which were then applied to the second channel respectively to analyze the location of the cells of interest 
 as a function of distance.
 
-### 1) DrawSave_LymphaticROIs.m
-### 2) LymphaticVessels_FluoDistance.m
+#### 1) DrawSave_LymphaticROIs.m
+#### 2) LymphaticVessels_FluoDistance.m
 
 
 ///////////////////////////////////////////////////
@@ -30,7 +30,7 @@ as a function of distance.
 
 These two scripts allow to visualize the ROI-dependent distance gradients either smoothly or overlayed on the raw images as 20um contour distance lines.
 
-### 3) Visualize_DistanceGradient.m
-### 4) Overlay_20MicronContourLines.m
+#### 3) Visualize_DistanceGradient.m
+#### 4) Overlay_20MicronContourLines.m
 
 
